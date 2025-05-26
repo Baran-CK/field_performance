@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin User
+      password: admin123
+    user:
+      email: user@example.com
+      name: Regular User
+      password: admin123
+    daranaliz:
+      email: daranaliz@example.com
+      name: Dara Analiz
+      password: ilovedata 

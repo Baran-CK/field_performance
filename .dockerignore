@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# env
+.env
+venv/
+.envrc
+
+# git
+.git/
+.gitignore
+
+# IDEs
+.vscode/
+.idea/
+
+# build artifacts
+build/
+dist/
+*.egg-info
+
+# OS
+.DS_Store
